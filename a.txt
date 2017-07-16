@@ -1,4 +1,5 @@
-hello
+
+echo <<hello world
 i am a
 i changed 
 my last name is c
